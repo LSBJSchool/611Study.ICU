@@ -1,5 +1,16 @@
-Projects under Anti 996ICU License. Thanks for your support!
+Respect The Pioneer Contributors of 996.icu
 ===
+
+尊敬996.icu项目作出过贡献的前辈，此文件在611Study.ICU项目被弃用
+===
+
+
+
+
+Projects under Anti 996ICU License. Thanks for your support!
+
+
+
 
 贡献指南
 ===
