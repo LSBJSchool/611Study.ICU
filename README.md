@@ -1,3 +1,4 @@
+ [English](README_en.md) | **[中文](README.md)**
 
 [611Study.ICU](https://611Study.icu)
 =======
@@ -34,7 +35,7 @@
 - 下午6点钟放学回家。
 - 互助式举报填写[超时学习学校登记问卷](https://forms.gle/n4w2Kb4hMtDxCTE18)
 
-感谢996.ICU的启发和其项目框架 
+感谢996.ICU的启发和其项目框架
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
