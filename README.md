@@ -9,6 +9,9 @@
 `611Study.ICU`  是指“早6点上学， 晚11点放学， 生病 ICU” 。这是中国现在初高中学校的普遍强制要求。无数的初高中生因此承受生理和心理健康的双重折磨。
 我们希望通过此项目，帮助中国学生们摆脱这种连监狱都不如的作息时间，拥有一个健康快乐的童年。
 
+### 少时学习611，长大工作996，最后猝死/跳楼/自杀终结ICU，这不该是初高中生应有的生活
+
+
 本项目基于 [996.ICU](https://996.icu/#/zh_CN)，程序员对于996工作制的呐喊。
 
 
@@ -24,7 +27,8 @@
 我能做什么？
 ---
 - 填写[超时学习学校登记问卷](https://forms.gle/n4w2Kb4hMtDxCTE18)更新[全国超时学习学校耻辱名单](https://docs.google.com/spreadsheets/d/1P48quxwMv9XsYQhXjLOvTRRq8tt3ahJnkbXo4VCxjLc/edit?usp=sharing)
-- 给社区与项目发展提出新的[议案](proposal/README.md)。
+- 互助式向异地教育局和市长热线等举报[全国超时学习学校耻辱名单](https://docs.google.com/spreadsheets/d/1P48quxwMv9XsYQhXjLOvTRRq8tt3ahJnkbXo4VCxjLc/edit?usp=sharing)中的超时学习学校。
+- 通过[发送邮件至humanright@lidao.pro](humanright@lidao.pro)或更新本GitHub项目给社区与项目发展提出新的议案。
 - 下午6点钟放学回家。
 - 互助式举报填写[超时学习学校登记问卷](https://forms.gle/n4w2Kb4hMtDxCTE18)
 
