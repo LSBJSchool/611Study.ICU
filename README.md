@@ -1,3 +1,4 @@
+ [English](README_en.md) | **[中文](README.md)**
 
 [611Study.ICU](https://611Study.icu)
 =======
@@ -30,11 +31,11 @@
 ---
 - 填写[超时学习学校登记问卷](https://forms.gle/n4w2Kb4hMtDxCTE18)更新[全国超时学习学校耻辱名单](https://docs.google.com/spreadsheets/d/1P48quxwMv9XsYQhXjLOvTRRq8tt3ahJnkbXo4VCxjLc/edit?usp=sharing)
 - 互助式向异地教育局和市长热线等举报[全国超时学习学校耻辱名单](https://docs.google.com/spreadsheets/d/1P48quxwMv9XsYQhXjLOvTRRq8tt3ahJnkbXo4VCxjLc/edit?usp=sharing)中的超时学习学校。
-- 通过[发送邮件至humanright@lidao.pro](humanright@lidao.pro)或更新本GitHub项目给社区与项目发展提出新的议案。
+- 通过发送邮件至[humanright@lidao.pro](mailto:humanright@lidao.pro)或更新本GitHub项目给社区与项目发展提出新的议案。
 - 下午6点钟放学回家。
 - 互助式举报填写[超时学习学校登记问卷](https://forms.gle/n4w2Kb4hMtDxCTE18)
 
-感谢996.ICU的启发和其项目框架 
+感谢996.ICU的启发和其项目框架
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
