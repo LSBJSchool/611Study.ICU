@@ -2,7 +2,7 @@
 [611Study.ICU](https://611Study.icu)
 =======
 
-### 少时学习611，长大工作996，最后猝死/跳楼/自杀终结ICU，这不该是初高中生应有的生活
+### 少时学习611，长大工作996，最后猝死/跳楼/自杀终结于ICU，这不该是初高中生应有的生活
 
 #### 点击查看[全国超时学习学校耻辱名单](https://docs.google.com/spreadsheets/d/1P48quxwMv9XsYQhXjLOvTRRq8tt3ahJnkbXo4VCxjLc/edit?usp=sharing)
 #### 点击填写[超时学习学校登记问卷](https://forms.gle/n4w2Kb4hMtDxCTE18)
