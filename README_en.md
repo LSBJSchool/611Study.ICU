@@ -25,7 +25,7 @@ What can I do?
 ---
 - Fill out the [Excessive Study Hours School Registration Questionnaire](https://forms.gle/n4w2Kb4hMtDxCTE18) and update the [Nationwide List of Schools with Excessive Study Hours (Shame List)](https://docs.google.com/spreadsheets/d/1P48quxwMv9XsYQhXjLOvTRRq8tt3ahJnkbXo4VCxjLc/edit?usp=sharing)
 - Help report excessive study hour schools to local education bureaus and mayor hotlines through mutual aid [Nationwide List of Schools with Excessive Study Hours (Shame List)](https://docs.google.com/spreadsheets/d/1P48quxwMv9XsYQhXjLOvTRRq8tt3ahJnkbXo4VCxjLc/edit?usp=sharing).
-- Propose new community and project ideas through [email to humanright@lidao.pro](humanright@lidao.pro) or by updating this GitHub project.
+- Propose new community and project ideas through email to [humanright@lidao.pro](mailto:humanright@lidao.pro) or by updating this GitHub project.
 - Go home by 6 PM.
 - Help report and fill out the [Excessive Study Hours School Registration Questionnaire](https://forms.gle/n4w2Kb4hMtDxCTE18).
 
