@@ -2,14 +2,16 @@
 [611Study.ICU](https://611Study.icu)
 =======
 
+### 少时学习611，长大工作996，最后猝死/跳楼/自杀终结ICU，这不该是初高中生应有的生活
+
 #### 点击查看[全国超时学习学校耻辱名单](https://docs.google.com/spreadsheets/d/1P48quxwMv9XsYQhXjLOvTRRq8tt3ahJnkbXo4VCxjLc/edit?usp=sharing)
 #### 点击填写[超时学习学校登记问卷](https://forms.gle/n4w2Kb4hMtDxCTE18)
+#### 点击访问[611Study.ICU全国超时学习学校耻辱名单官网](https://611Study.ICU)
 
 
 `611Study.ICU`  是指“早6点上学， 晚11点放学， 生病 ICU” 。这是中国现在初高中学校的普遍强制要求。无数的初高中生因此承受生理和心理健康的双重折磨。
 我们希望通过此项目，帮助中国学生们摆脱这种连监狱都不如的作息时间，拥有一个健康快乐的童年。
 
-### 少时学习611，长大工作996，最后猝死/跳楼/自杀终结ICU，这不该是初高中生应有的生活
 
 
 本项目基于 [996.ICU](https://996.icu/#/zh_CN)，程序员对于996工作制的呐喊。
