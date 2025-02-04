@@ -3,31 +3,31 @@
 [611Study.ICU](https://611Study.icu)
 =======
 
-### Study in the morning at 6 AM, work until 11 PM, and end up in ICU. This shouldn't be the life of junior and senior high school students in China.
+### Study from 6 AM to 11 PM, and end up in ICU. This shouldn't be the life of junior and senior high school students in China.
 
 #### Click to view the [Nationwide List of Schools with Excessive Study Hours (Shame List)](https://docs.google.com/spreadsheets/d/1P48quxwMv9XsYQhXjLOvTRRq8tt3ahJnkbXo4VCxjLc/edit?usp=sharing)
-#### Click to fill out the [Excessive Study Hours School Registration Questionnaire](https://forms.gle/n4w2Kb4hMtDxCTE18)
-#### Click to visit the [611Study.ICU Nationwide Excessive Study Hours School Shame List Official Website](https://611Study.ICU)
+#### Click to fill out the [Registeration Questionnaire of Schools with Excessive Study Hours](https://forms.gle/n4w2Kb4hMtDxCTE18)
+#### Click to visit the [Official Website of 611Study.ICU](https://611Study.ICU)
 
-`611Study.ICU` refers to the "Study from 6 AM to 11 PM, end up in ICU" lifestyle, which is the forced schedule in many junior and senior high schools in China. Countless students suffer both physically and mentally from this schedule.
+`611Study.ICU` refers to the "Study from 6 AM to 11 PM, and end up in ICU" lifestyle, which is the forced schedule in many junior and senior high schools in China. As a result, countless students suffer both physically and mentally from this schedule.
 Through this project, we aim to help Chinese students escape this prison-like timetable and have a healthy and happy childhood.
 
-This project is inspired by [996.ICU](https://996.icu/#/zh_CN), a cry from programmers about the 996 working system.
+This project is inspired by [996.ICU](https://996.icu/#/zh_CN), the cry from a programmer about the 996 work schedule.
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
-What is the 611Study system?
+What is the 611 study schedule?
 ---
 
-The "611" system refers to a school schedule that is commonly enforced in junior and senior high schools in China (from 6 AM to school, until 11 PM when school ends, sometimes with 6 or 7 working days a week). This schedule means that students are required to study for at least 102 hours a week.
+The "611" study schedule refers to a school schedule that is commonly enforced in junior and senior high schools in China (from 6 AM to school, until 11 PM when school ends, sometimes with 6 or 7 days a week), which means that students are required to study for at least 102 hours a week.
 
 What can I do?
 ---
-- Fill out the [Excessive Study Hours School Registration Questionnaire](https://forms.gle/n4w2Kb4hMtDxCTE18) and update the [Nationwide List of Schools with Excessive Study Hours (Shame List)](https://docs.google.com/spreadsheets/d/1P48quxwMv9XsYQhXjLOvTRRq8tt3ahJnkbXo4VCxjLc/edit?usp=sharing)
-- Help report excessive study hour schools to local education bureaus and mayor hotlines through mutual aid [Nationwide List of Schools with Excessive Study Hours (Shame List)](https://docs.google.com/spreadsheets/d/1P48quxwMv9XsYQhXjLOvTRRq8tt3ahJnkbXo4VCxjLc/edit?usp=sharing).
+- Fill out the [Registeration Questionnaire of Schools with Excessive Study Hours](https://forms.gle/n4w2Kb4hMtDxCTE18) and update the [Nationwide List of Schools with Excessive Study Hours (Shame List)](https://docs.google.com/spreadsheets/d/1P48quxwMv9XsYQhXjLOvTRRq8tt3ahJnkbXo4VCxjLc/edit?usp=sharing)
+- Help report schools with excessive study hour to a non-local education bureaus or government services hotlines through mutual aid [Nationwide List of Schools with Excessive Study Hours (Shame List)](https://docs.google.com/spreadsheets/d/1P48quxwMv9XsYQhXjLOvTRRq8tt3ahJnkbXo4VCxjLc/edit?usp=sharing).
 - Propose new community and project ideas through email to [humanright@lidao.pro](mailto:humanright@lidao.pro) or by updating this GitHub project.
 - Go home by 6 PM.
-- Help report and fill out the [Excessive Study Hours School Registration Questionnaire](https://forms.gle/n4w2Kb4hMtDxCTE18).
+- Help report and fill out the [Registeration Questionnaire of Schools with Excessive Study Hours](https://forms.gle/n4w2Kb4hMtDxCTE18).
 
 Thanks to the inspiration of 996.ICU and its project framework.
 
@@ -36,7 +36,7 @@ Thanks to the inspiration of 996.ICU and its project framework.
 Principles and Objectives
 ---
 
-* 611Study.ICU is the cry of overburdened students suffering from excessive study hours in China. We welcome discussions from individuals in other fields and countries.
+* 611Study.ICU is the cry of overburdened students suffering from excessive study hours in China. However, discussions from individuals in other fields or countries are welcomed as well.
 
 * We welcome all positive, constructive suggestions, advocating for mature, responsible, and meaningful speech.
 
