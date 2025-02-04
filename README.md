@@ -43,7 +43,7 @@ Principles and Objectives
 Expanding Influence
 ---
 
-[611Study.ICU Content Translation](i18n/README.md), feel free to utilize your abilities to adjust formats, add content, or correct grammar. However, note that adding too many translations is not our goal.
+Feel free to utilize your abilities to adjust formats, add content, or correct grammar. However, note that adding too many translations is not our goal.
 
 License
 ---
