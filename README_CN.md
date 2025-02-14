@@ -52,6 +52,12 @@
 [611Study.ICU 内容翻译](i18n/README.md)，请自由发挥你的能力，调整格式、添加内容或修正语法。不过要注意，添加过多的翻译版本并非我们的目标。
 
 
+社区地址
+---
+611Study.ICU已经被中国网络防火墙（GFW）屏蔽，在这一栏中我们将社区中大家创建的备用地址给大家列出来。欢迎大家提交issue来补充自己的备用地址：
+[HosinoEJ 611studyf.hsnej.fun](https://611studyf.hsnej.fun/)
+
+
 License
 ---
 
