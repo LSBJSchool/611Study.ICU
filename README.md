@@ -57,5 +57,5 @@ License
 
 - This license aims to prevent companies that violate labor laws from using the software or code under the license and forces these companies to reconsider their actions.
 - View the complete list of projects under the Anti 996 License [here](awesomelist/README.md).
-- The draft is adapted from the MIT License. For more information, please refer to the [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). The license is compatible with all major open-source licenses.
-- If you are a legal professional or someone willing to contribute directly to future versions, please visit [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft). Thank you for your help.
+- The draft is adapted from the MIT License. For more information, please refer to the [Wiki](https://github.com/kattgu7/Anti-996-License/wiki). The license is compatible with all major open-source licenses.
+- If you are a legal professional or someone willing to contribute directly to future versions, please visit [Anti-996-License-1.0](https://github.com/kattgu7/Anti-996-License). Thank you for your help.
