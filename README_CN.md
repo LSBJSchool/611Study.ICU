@@ -46,16 +46,15 @@
 
 * 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟、负责任以及有价值的发言。
 
+相关项目
+---
+
+* [611Study-DataCleaner](https://github.com/mbnspocb/611Study-DataCleaner)  自动清洗不合规的可疑数据方便研究
+
 扩大影响
 ---
 
-[611Study.ICU 内容翻译](i18n/README.md)，请自由发挥你的能力，调整格式、添加内容或修正语法。不过要注意，添加过多的翻译版本并非我们的目标。
-
-
-社区地址
----
-611Study.ICU已经被中国网络防火墙（GFW）屏蔽，在这一栏中我们将社区中大家创建的备用地址给大家列出来。欢迎大家提交PR来补充自己的备用地址：
-[HosinoEJ 611studyf.hsnej.fun](https://611studyf.hsnej.fun/)
+请自由发挥你的能力，调整格式、添加内容或修正语法。不过要注意，添加过多的翻译版本并非我们的目标。
 
 
 License
@@ -65,5 +64,5 @@ License
 
  - 此许可证的目的是阻止违反劳动法的公司使用许可证下的软件或代码，并强迫这些公司权衡他们的行为。
  - 在此处查看反 996 许可证下的[完整项目列表](awesomelist/README.md)
- - 该草案改编自 MIT 许可证，如需更多信息请查看 [Wiki](https://github.com/kattgu7/996-License-Draft/wiki)。此许可证旨在与所有主流开源许可证兼容。
- - 如果你是法律专业人士，或是任何愿意为未来版本做出直接贡献的人，请访问 [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft)。感谢你的帮助。
+ - 该草案改编自 MIT 许可证，如需更多信息请查看 [Wiki](https://github.com/kattgu7/Anti-996-License/wiki)。此许可证旨在与所有主流开源许可证兼容。
+ - 如果你是法律专业人士，或是任何愿意为未来版本做出直接贡献的人，请访问 [Anti-996-License-1.0](https://github.com/kattgu7/Anti-996-License)。感谢你的帮助。
