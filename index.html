@@ -14,6 +14,19 @@
             background-color: #de335e; /* 深红色背景 */
             color: white;
             text-align: center;
+            
+        }
+        @media (min-aspect-ratio: 1/1){/*使用横屏比例下修改的参数*/
+            body{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                margin: 0 auto;
+                padding: 5%;
+            }
+            header h1{
+                margin: 0 0;
+            }
         }
 
         header {
