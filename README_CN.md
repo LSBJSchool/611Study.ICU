@@ -6,7 +6,9 @@
 ### 少时学习611，长大工作996，最后猝死/跳楼/自杀终结于ICU，这不该是初高中生应有的生活
 
 #### 点击查看[全国超时学习学校耻辱名单](https://docs.google.com/spreadsheets/d/1P48quxwMv9XsYQhXjLOvTRRq8tt3ahJnkbXo4VCxjLc/edit?usp=sharing)
+#### 点击查看[第二阶段项目超时强迫“自愿申请”补课学校耻辱名单](https://docs.google.com/spreadsheets/d/1xwumayAqvDoATywgzGgOgqXqF4xoVGgumxVQz9CNmkc/edit?usp=sharing)
 #### 点击填写[超时学习学校登记问卷](https://forms.gle/n4w2Kb4hMtDxCTE18)
+#### 点击填写[第二阶段项目超时强迫“自愿申请”补课学校登记表](https://forms.gle/pvcuY31qxTnFEzt66)
 #### 点击访问[611Study.ICU全国超时学习学校耻辱名单官网](https://611Study.ICU)
 
 
