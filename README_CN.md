@@ -19,6 +19,8 @@
 
 本项目基于 [996.ICU](https://996.icu/#/zh_CN)，程序员对于996工作制的呐喊。
 
+本项目由[$LI团队](https://www.li-dao.org)运营。 [$LI](https://www.li-dao.org)希望建设一个独一无二的社区，我们致力于在中国这样的独裁国家中，促进人权、新闻自由与言论自由。$Li 的社区将伴随 $LI 的成长不断发展，凝聚共识，共同推动这些核心价值的实现。
+
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
