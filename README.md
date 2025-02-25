@@ -14,6 +14,8 @@ Through this project, we aim to help Chinese students escape this prison-like ti
 
 This project is inspired by [996.ICU](https://996.icu/#/zh_CN), the cry from a programmer about the 996 work schedule.
 
+[$LI Team](li-dao.org) operated this project. [$LI](li-dao.org) will establish a unique community ecosystem dedicated to promoting press freedom and human rights, particularly in authoritarian states like China. This ecosystem will grow and evolve alongside the $LI token, fostering collective progress toward these critical values.
+
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 What is the 611 study schedule?
