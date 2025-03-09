@@ -3,203 +3,214 @@
 <head>
     <meta charset="UTF-8">
     <title>611Study.ICU</title>
-    <meta name="description" content="611Study.ICU 是一个旨在揭示和抵制中国初高中学校普遍存在的“611”学制的项目。“611”学制指学生每天从早上6点到晚上11点，每周学习6至7天，总计每周至少学习102小时。这种高强度的学习安排对学生的身心健康造成了严重影响，导致许多学生出现心理和生理问题。">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="611Study.ICU 是一个旨在揭示和抵制中国初高中学校普遍存在的“611”学制的项目。">
     <link rel="icon" href="/logo.svg" type="image/svg+xml">
-    <style>
-        body {
-            scroll-behavior: smooth;
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 10%;
-            background-color: #de335e; /* 深红色背景 */
-            color: white;
-            text-align: center;
-            
-        }
-        @media (min-aspect-ratio: 1/1){/*使用横屏比例下修改的参数*/
-            body{
-                display: flex;
-                flex-direction: column;
-                align-items: center;
-                margin: 0 auto;
-                padding: 5%;
-            }
-            header h1{
-                margin: 0 0;
-            }
-        }
-        .head-animation{
-            background-color: #de335e; 
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            opacity: 1;
-            animation: fade-out 1.75s ease-in-out forwards;
-            z-index: 3;
-        }
-
-        @keyframes fade-out {
-            0% {
-                opacity: 1;
-            }
-            75% {
-                opacity: 1;
-            }
-            100% {
-                opacity: 0;
-                visibility: hidden;
-                display: none;
-            }
-        }
-
-        header {
-            margin: 20px 0;
-        } 
-
-        img.header-image {
-            width: 70%; /* 自适应宽度 */
-            max-width: 800px;
-            height: auto;
-            margin: 5px auto;
-            display: block;
-        }
-
-        h1, h2, h3, h4 {
-            color: #FFD700; /* 金黄色标题 */
-        }
-
-        h2{
-            font-size: 50px;
-        }
-
-        h1{
-            font-size: 130px;
-        }
-
-        h4{
-            font-size: 36px;
-        }
-
-        a {
-            color: #87CEEB;
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-
-        .badge {
-            display: inline-block;
-            padding: 5px 10px;
-            margin: 5px 0;
-            background-color: #FFD700;
-            color: #8B0000;
-            border-radius: 3px;
-            font-size: 14px;
-        }
-
-        ul {
-            text-align: left;
-            max-width: 800px;
-            margin: 0 auto;
-            font-size: 28px;
-        }
-
-        p {
-            max-width: 800px;
-            margin: 10px auto;
-            font-size: 28px;
-        }
-
-    </style>
-
-    <!-- Place this tag in your head or just before your close body tag. -->
-    <script async defer src="https://buttons.github.io/buttons.js"></script>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mdui@1.0.2/dist/css/mdui.min.css">
+    <script src="//cdn.jsdelivr.net/npm/mdui@1.0.2/dist/js/mdui.min.js"></script>
+    <link rel="stylesheet" href="styles/main.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
-<body>
-    <div class="head-animation">
-        <img src="logo.svg" alt="611Study.ICU" class="header-image">
+<body class="mdui-theme-primary-red mdui-theme-accent-amber mdui-drawer-body-left mdui-theme-layout-dark mdui-bottom-nav-fixed">
+    <div class="mdui-drawer" id="main-drawer">
+        <div class="mdui-list" mdui-collapse="{accordion: true}">
+            <img src="logo.svg" alt="611Study.ICU" class="header-image">
+            <a href="#about" class="mdui-list-item mdui-ripple">
+                <i class="mdui-list-item-icon mdui-icon material-icons">info</i>
+                <div class="mdui-list-item-content">关于项目</div>
+            </a>
+            <a href="#documents" class="mdui-list-item mdui-ripple">
+                <i class="mdui-list-item-icon mdui-icon material-icons">article</i>
+                <div class="mdui-list-item-content">文档列表</div>
+            </a>
+            <a href="#what-is" class="mdui-list-item mdui-ripple">
+                <i class="mdui-list-item-icon mdui-icon material-icons">help</i>
+                <div class="mdui-list-item-content">什么是611</div>
+            </a>
+            <a href="#what-todo" class="mdui-list-item mdui-ripple">
+                <i class="mdui-list-item-icon mdui-icon material-icons">checklist</i>
+                <div class="mdui-list-item-content">我能做什么</div>
+            </a>
+            <a href="#principles" class="mdui-list-item mdui-ripple">
+                <i class="mdui-list-item-icon mdui-icon material-icons">policy</i>
+                <div class="mdui-list-item-content">原则和目的</div>
+            </a>
+            <a href="#influence" class="mdui-list-item mdui-ripple">
+                <i class="mdui-list-item-icon mdui-icon material-icons">trending_up</i>
+                <div class="mdui-list-item-content">扩大影响</div>
+            </a>
+            <a href="#license" class="mdui-list-item mdui-ripple">
+                <i class="mdui-list-item-icon mdui-icon material-icons">gavel</i>
+                <div class="mdui-list-item-content">开源协议</div>
+            </a>
+        </div>
     </div>
-    <header>
-        <img src="logo.svg" alt="611Study.ICU" class="header-image">
-        <h1>611Study.ICU</h1>
-    </header>
-    <script>
-        var AnimationHeadElement=document.querySelector(".head-animation") 
-        var HeadElement=document.querySelector("header > h1") 
-        AnimationHeadElement.addEventListener('animationend', () => {
-            window.scrollTo({
-                top: HeadElement.offsetTop, 
-                left: 0, 
-                behavior: "smooth"
-            })
-        });
-    </script>
 
-    <h4>本项目由 <a href="https://www.li-dao.org" target="_blank">$Li币团队</a>运营</h4>
-    <p>$LI 希望建设一个独一无二的社区，我们致力于在中国这样的独裁国家中，促进人权、新闻自由与言论自由。$Li 的社区将伴随 $LI 的成长不断发展，凝聚共识，共同推动这些核心价值的实现。</p>
-
-
-    <h4>点击查看<a href="https://docs.google.com/spreadsheets/d/1P48quxwMv9XsYQhXjLOvTRRq8tt3ahJnkbXo4VCxjLc/edit?usp=sharing" target="_blank">全国超时学习学校耻辱名单</a></h4>
-    <h4>点击查看<a href="https://docs.google.com/spreadsheets/d/1xwumayAqvDoATywgzGgOgqXqF4xoVGgumxVQz9CNmkc/edit?usp=sharing" target="_blank">611Study.ICU第二阶段项目：强制学生“自愿”补课学校耻辱名单</a></h4>
-    <h4>点击填写<a href="https://forms.gle/n4w2Kb4hMtDxCTE18" target="_blank">超时学习学校登记问卷</a></h4>
-    <h4>点击填写<a href="https://forms.gle/9w492T7qaVDi7c4t7" target="_blank">611Study.ICU第二阶段项目：强制学生自愿补课学校登记问卷</a></h4>
-    <h4>点击访问<a href="https://github.com/IQAQI233/611Study.ICU" target="_blank">我们的GitHub项目页面</a></h4>
-
-    <p><b><a href="https://github.com/IQAQI233/611Study.ICU" target="_blank">611Study</a> 是指“早6点上学，晚11点放学，生病 ICU”。这是中国现在初高中学校的普遍强制要求。无数的初高中生因此承受生理和心理健康的双重折磨。我们希望通过此项目，帮助中国学生们摆脱这种连监狱都不如的作息时间，拥有一个健康快乐的童年。</b></p>
-
-    <h4>请为我们的项目点Star支持我们：</h4>
-
-    <div>
-        
-         <!-- Place this tag where you want the button to render. -->
-        <a class="github-button" href="https://github.com/IQAQI233/611Study.ICU" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star IQAQI233/611Study.ICU on GitHub" style="height: 40px;">Star</a>
+    <div class="mdui-appbar mdui-appbar-fixed">
+        <div class="mdui-toolbar mdui-color-theme">
+            <a mdui-drawer="{target: '#main-drawer'}" class="mdui-btn mdui-btn-icon">
+                <i class="mdui-icon material-icons">menu</i>
+            </a>
+            <span class="mdui-typo-title">611Study.ICU</span>
+            <div class="mdui-toolbar-spacer"></div>
+        </div>
     </div>
-    
-   
-    <p>本项目基于 <a href="https://996.icu/#/zh_CN" target="_blank">996.ICU</a>，程序员对于996工作制的呐喊。</p>
 
-    
+    <div class="mdui-container main-content">
+        <div class="mdui-row">
+            <div class="mdui-col-xs-12">
+                <div class="mdui-card mdui-m-b-4" id="about">
+                    <div class="mdui-card-primary mdui-color-theme-accent">
+                        <div class="mdui-card-primary-title mdui-text-color-theme-text">
+                            <i class="mdui-icon material-icons mdui-icon-dark">group</i>
+                            项目运营
+                        </div>
+                    </div>
+                    <div class="mdui-card-content">
+                        <button class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-theme-accent mdui-m-b-2" 
+                                onclick="window.open('https://www.li-dao.org', '_blank')">
+                            <i class="mdui-icon material-icons">link</i>
+                            访问$Li币团队
+                        </button>
+                        <p class="mdui-typo">$LI 希望建设一个独一无二的社区，我们致力于在中国这样的独裁国家中，促进人权、新闻自由与言论自由。$Li 的社区将伴随 $LI 的成长不断发展，凝聚共识，共同推动这些核心价值的实现。</p>
+                    </div>
+                </div>
 
+                <div class="mdui-card mdui-m-b-4" id="documents">
+                    <div class="mdui-card-primary mdui-color-theme">
+                        <div class="mdui-card-primary-title">相关文档</div>
+                        <div class="mdui-card-primary-subtitle">项目资料与问卷调查</div>
+                    </div>
+                    <div class="mdui-card-content">
+                        <div class="mdui-row-xs-1 mdui-row-sm-2 mdui-row-md-3 mdui-grid-list">
+                            <div class="mdui-col">
+                                <button class="mdui-btn mdui-btn-block mdui-btn-raised mdui-ripple mdui-m-b-2" 
+                                        onclick="window.open('https://docs.google.com/spreadsheets/d/1P48quxwMv9XsYQhXjLOvTRRq8tt3ahJnkbXo4VCxjLc/edit?usp=sharing', '_blank')">
+                                    <i class="mdui-icon material-icons">format_list_numbered</i>
+                                    超时学习学校名单
+                                </button>
+                            </div>
+                            <div class="mdui-col">
+                                <button class="mdui-btn mdui-btn-block mdui-btn-raised mdui-ripple mdui-m-b-2" 
+                                        onclick="window.open('https://forms.gle/n4w2Kb4hMtDxCTE18', '_blank')">
+                                    <i class="mdui-icon material-icons">assignment</i>
+                                    登记问卷
+                                </button>
+                            </div>
+                            <div class="mdui-col">
+                                <button class="mdui-btn mdui-btn-block mdui-btn-raised mdui-ripple mdui-m-b-2" 
+                                        onclick="window.open('https://github.com/IQAQI233/611Study.ICU', '_blank')">
+                                    <i class="mdui-icon material-icons">code</i>
+                                    GitHub项目页面
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
-    <h2>什么是611Study, 611学制？</h2>
-    <p>“611”学制，指的是一种近年来中国初高中普遍执行的上课模式（早上 6 点到校 ~ 晚上 11 点放学，每周 6 天甚至 7 天）。在一个实行“611”学制的学校上课就意味着每周至少要在学校学习 102 个小时。</p>
+                <div class="mdui-card mdui-m-b-4" id="what-is">
+                    <div class="mdui-card-primary mdui-color-theme">
+                        <div class="mdui-card-primary-title">什么是611Study</div>
+                        <div class="mdui-card-primary-subtitle">了解这个项目的由来</div>
+                    </div>
+                    <div class="mdui-card-content">
+                        <h2 class="mdui-typo-title">什么是611Study, 611学制？</h2>
+                        <p class="mdui-typo">“611”学制，指的是一种近年来中国初高中普遍执行的上课模式（早上 6 点到校 ~ 晚上 11 点放学，每周 6 天甚至 7 天）。在一个实行“611”学制的学校上课就意味着每周至少要在学校学习 102 个小时。</p>
+                    </div>
+                </div>
 
-    <h2>我能做什么？</h2>
-    <ul>
-        <li>填写<a href="https://forms.gle/n4w2Kb4hMtDxCTE18" target="_blank">超时学习学校登记问卷</a>更新<a href="https://docs.google.com/spreadsheets/d/1P48quxwMv9XsYQhXjLOvTRRq8tt3ahJnkbXo4VCxjLc/edit?usp=sharing" target="_blank">全国超时学习学校耻辱名单</a></li>
-        <li>互助式向异地教育局和市长热线等举报<a href="https://docs.google.com/spreadsheets/d/1P48quxwMv9XsYQhXjLOvTRRq8tt3ahJnkbXo4VCxjLc/edit?usp=sharing" target="_blank">全国超时学习学校耻辱名单</a>中的超时学习学校。</li>
-        <li>给社区与项目发展提出新的<a href="https://github.com/IQAQI233/611Study.ICU/discussions">议题</a>。</li>
-        <li>下午6点钟放学回家。</li>
-        <li>互助式举报填写<a href="https://forms.gle/n4w2Kb4hMtDxCTE18" target="_blank">超时学习学校登记问卷</a></li>
-    </ul>
+                <div class="mdui-card mdui-m-b-4" id="what-todo">
+                    <div class="mdui-card-primary mdui-color-theme">
+                        <div class="mdui-card-primary-title">我能做什么？</div>
+                    </div>
+                    <div class="mdui-card-content">
+                        <div class="mdui-row-xs-1 mdui-row-sm-2 mdui-row-md-3 mdui-grid-list">
+                            <div class="mdui-col">
+                                <button class="mdui-btn mdui-btn-block mdui-btn-raised mdui-ripple mdui-m-b-2" 
+                                        onclick="window.open('https://forms.gle/n4w2Kb4hMtDxCTE18', '_blank')">
+                                    <i class="mdui-icon material-icons">edit_note</i>
+                                    填写超时学习学校登记问卷
+                                </button>
+                            </div>
+                            <div class="mdui-col">
+                                <button class="mdui-btn mdui-btn-block mdui-btn-raised mdui-ripple mdui-m-b-2" 
+                                        onclick="window.open('https://github.com/IQAQI233/611Study.ICU/discussions', '_blank')">
+                                    <i class="mdui-icon material-icons">forum</i>
+                                    提出新议题
+                                </button>
+                            </div>
+                        </div>
+                        <p class="mdui-typo mdui-text-color-theme-text">下午6点钟放学回家。</p>
+                    </div>
+                </div>
 
-    <p>感谢996.ICU的启发和其项目框架</p>
+                <div class="mdui-card mdui-m-b-4" id="principles">
+                    <div class="mdui-card-primary mdui-color-theme">
+                        <div class="mdui-card-primary-title">原则和目的</div>
+                    </div>
+                    <div class="mdui-card-content">
+                        <ul class="mdui-list">
+                            <li class="mdui-list-item mdui-typo">611Study.ICU 是中国不堪重负超时学习学生们的呐喊，我们欢迎其他领域、其他国家的人士加入讨论。</li>
+                            <li class="mdui-list-item mdui-typo">我们欢迎一切积极的、具有建设性意义的建议，倡导成熟、负责任以及有价值的发言。</li>
+                        </ul>
+                    </div>
+                </div>
 
+                <div class="mdui-card mdui-m-b-4" id="influence">
+                    <div class="mdui-card-primary mdui-color-theme">
+                        <div class="mdui-card-primary-title">扩大影响</div>
+                    </div>
+                    <div class="mdui-card-content">
+                        <p class="mdui-typo">请自由发挥你的能力，调整格式、添加内容或修正语法。不过要注意，添加过多的翻译版本并非我们的目标。</p>
+                    </div>
+                </div>
 
-    <h2>原则和目的</h2>
-    <ul>
-        <li>611Study.ICU 是中国不堪重负超时学习学生们的呐喊，我们欢迎其他领域、其他国家的人士加入讨论。</li>
-        <li>我们欢迎一切积极的、具有建设性意义的建议，倡导成熟、负责任以及有价值的发言。</li>
-    </ul>
+                <div class="mdui-card mdui-m-b-4" id="license">
+                    <div class="mdui-card-primary mdui-color-theme">
+                        <div class="mdui-card-primary-title">License</div>
+                    </div>
+                    <div class="mdui-card-content">
+                        <div class="mdui-row-xs-1 mdui-row-sm-2 mdui-row-md-3 mdui-grid-list">
+                            <div class="mdui-col">
+                                <button class="mdui-btn mdui-btn-block mdui-btn-raised mdui-ripple mdui-m-b-2" 
+                                        onclick="window.open('LICENSE', '_blank')">
+                                    <i class="mdui-icon material-icons">description</i>
+                                    反 996 许可证
+                                </button>
+                            </div>
+                            <div class="mdui-col">
+                                <button class="mdui-btn mdui-btn-block mdui-btn-raised mdui-ripple mdui-m-b-2" 
+                                        onclick="window.open('awesomelist/README.md', '_blank')">
+                                    <i class="mdui-icon material-icons">list</i>
+                                    完整项目列表
+                                </button>
+                            </div>
+                        </div>
+                        <ul class="mdui-list">
+                            <li class="mdui-list-item mdui-typo">此许可证的目的是阻止违反劳动法的公司使用许可证下的软件或代码，并强迫这些公司权衡他们的行为。</li>
+                            <li class="mdui-list-item mdui-typo">在此处查看反 996 许可证下的<a href="awesomelist/README.md" target="_blank">完整项目列表</a></li>
+                            <li class="mdui-list-item mdui-typo">该草案改编自 MIT 许可证，如需更多信息请查看 <a href="https://github.com/kattgu7/Anti-996-License/wiki" target="_blank">Wiki</a>。此许可证旨在与所有主流开源许可证兼容。</li>
+                            <li class="mdui-list-item mdui-typo">如果你是法律专业人士，或是任何愿意为未来版本做出直接贡献的人，请访问 <a href="https://github.com/kattgu7/Anti-996-License" target="_blank">Anti-996-License-1.0</a>。感谢你的帮助。</li>
+                        </ul>
+                    </div>
+                </div>
 
-    <h2>扩大影响</h2>
-    <p>请自由发挥你的能力，调整格式、添加内容或修正语法。不过要注意，添加过多的翻译版本并非我们的目标。</p>
-
-    <h2>License</h2>
-    <p><a href="LICENSE" target="_blank">反 996 许可证</a></p>
-    <ul>
-        <li>此许可证的目的是阻止违反劳动法的公司使用许可证下的软件或代码，并强迫这些公司权衡他们的行为。</li>
-        <li>在此处查看反 996 许可证下的<a href="awesomelist/README.md" target="_blank">完整项目列表</a></li>
-        <li>该草案改编自 MIT 许可证，如需更多信息请查看 <a href="https://github.com/kattgu7/Anti-996-License/wiki" target="_blank">Wiki</a>。此许可证旨在与所有主流开源许可证兼容。</li>
-        <li>如果你是法律专业人士，或是任何愿意为未来版本做出直接贡献的人，请访问 <a href="https://github.com/kattgu7/Anti-996-License" target="_blank">Anti-996-License-1.0</a>。感谢你的帮助。</li>
-    </ul>
+                <div class="mdui-card mdui-m-b-4">
+                    <div class="mdui-card-primary mdui-color-theme">
+                        <div class="mdui-card-primary-title">支持我们</div>
+                    </div>
+                    <div class="mdui-card-content">
+                        <h4 class="mdui-typo-title">请为我们的项目点Star支持我们：</h4>
+                        <div>
+                            <a class="github-button" href="https://github.com/IQAQI233/611Study.ICU" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star IQAQI233/611Study.ICU on GitHub" style="height: 40px;">Star</a>
+                        </div>
+                        <p class="mdui-typo">本项目基于 <a href="https://996.icu/#/zh_CN" target="_blank">996.ICU</a>，程序员对于996工作制的呐喊。</p>
+                        <p class="mdui-typo"><b><a href="https://github.com/IQAQI233/611Study.ICU" target="_blank">611Study</a> 是指“早6点上学，晚11点放学，生病 ICU”。这是中国现在初高中学校的普遍强制要求。无数的初高中生因此承受生理和心理健康的双重折磨。我们希望通过此项目，帮助中国学生们摆脱这种连监狱都不如的作息时间，拥有一个健康快乐的童年。</b></p>
+                        <p class="mdui-typo">感谢996.ICU的启发和其项目框架</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
 </html>
